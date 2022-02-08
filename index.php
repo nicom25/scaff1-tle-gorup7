@@ -1,5 +1,4 @@
-
-html>
+<html>
 <head> <title> Group 7 Main Webpage </title> </head>
 <br>
 <body background="Mountains.png" style="background size:100%">
@@ -19,4 +18,4 @@ html>
 <p align="center">
 <a href="file:///C:/Users/63968/Desktop/MEMBERS.html"> <img src="people.png" height="100"> </a>
 </p>
-<html>
+</html>
